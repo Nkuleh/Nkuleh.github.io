@@ -1,0 +1,24 @@
+.Home-back{
+    background-image: url(../Images/1.png);
+    background-size: cover;
+    background-position: center top;
+}
+
+
+.navbar-custom-color{
+    background-color: rgb(15, 0, 0);
+}
+
+.nav > li > a:hover{
+    background-color:rgb(109, 180, 165);
+}
+
+/*Moving the overlaying text to the right*/
+.card-img-overlay{
+    margin-top: 300px;
+    margin-left: 700px;
+}
+
+.card-img-overlay h1,p{
+    color: white;
+}
